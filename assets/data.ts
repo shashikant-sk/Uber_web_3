@@ -1,4 +1,4 @@
-import UberX from './rides/UberX.png'
+import UberX from './rides/uberX.png'
 import UberBlack from './rides/uberBlack.png'
 import UberBlackSuv from './rides/uberBlackSuv.png'
 import UberSelect from './rides/uberSelect.png'
